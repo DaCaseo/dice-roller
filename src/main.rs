@@ -3,6 +3,11 @@
 - panics if you don't specify anything before "d"
 
 I'm aware of its shortcomings for now, but those are not bugs.
+
+TODO:
+- move dice rolling into separate function
+- add rolling multiple dice
+- allow roller to keep listening after one roll
 */
 use rand::Rng;
 use std::io;
