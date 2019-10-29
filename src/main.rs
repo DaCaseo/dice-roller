@@ -1,5 +1,4 @@
 /* CURRENT ISSUES:
-- Can roll 0
 - panics if you don't specify anything before "d"
 
 I'm aware of its shortcomings for now, but those are not bugs.
